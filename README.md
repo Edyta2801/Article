@@ -1,0 +1,1 @@
+Przykładowa strona z artykułem, piersze style CSS
