@@ -1,0 +1,16 @@
+body { height:800px;font-family: Verdana; }
+article { width: 500px; } 
+article header h1 { color: green; }
+article header p { background-color: red; color: white; } 
+article figure  { width: 100px; border: 3px solid black; padding: 5px; }
+article figure img {width: 50%;}
+
+#static-width{
+    width:300px;
+    height:300px;
+    background-image:url(serduszko.png), url(maly_kotek.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top left, center;
+    background-color:black ;
+    background-size: 70px, 300px;
+}
